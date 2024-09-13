@@ -1,5 +1,5 @@
 # coldWork---Cold-Email-Generator-using-URL
-
+You can check the hosted version of this project at [this link](https://cold-email-generator-using-url.streamlit.app/), where you can explore the tool in action.
 # Project Overview
 
 ColdHireMailer is an automated cold email generator using the provided URL from a Company's Careers page(or any job posting you find online). It allows you to easily tailor job application emails based on job postings by extracting the job description, matching the required skills with your projects (matching the Tech Stack used in the project), and generating a customized email. The tool ensures that each email is focused on relevant projects, making your application more targeted and professional.
